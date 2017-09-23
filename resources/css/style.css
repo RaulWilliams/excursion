@@ -1,0 +1,42 @@
+/*Body's general redline*/
+body {
+  background-color: black;
+  text-align: center;
+}
+/*Different Title's class same values*/
+.special {
+  font-family:Verdana;
+}
+
+/*Main Title's values*/
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+/*Special Anchors*/
+.ancspecial {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+/*Secondary Title's values*/
+h2 {
+  font-family: Verdana;
+  font-size: 42px;
+  font-weight: 300;
+  color:white;
+  }
+/*Paragraph Values*/
+p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+/*Special Div's Class sending text to the right*/
+.right {
+  text-align: right;
+}
